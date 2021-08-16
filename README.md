@@ -13,5 +13,6 @@ Action secrets 需要填的参数为：
 2.  SCKEY（选填，server酱key）
 4.  webhook（选填，钉钉webhook，直接复制整个地址）
 3.  notice （选填，默认不推送）推送方式0=dingding 1=weixin 2=全都要，其他数字为不推送，或者不填
+4.  Github会检测你如果repo不动，他会自动禁止你的签到
 
 
